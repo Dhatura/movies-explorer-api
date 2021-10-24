@@ -10,6 +10,6 @@
 * `npm run start` — запускает сервер
 * `npm run dev` — запускает сервер с hot-reload
 
-### :link: backend - [https://api.mesto-datura.students.nomoredomains.club](https://api.mesto-datura.students.nomoredomains.club)
+### :link: backend - [https://api.datura-movies.nomoredomains.monster](https://api.datura-movies.nomoredomains.monster)
 
 * публичный IP-адрес сервера:
