@@ -1,15 +1,23 @@
-# Дипломная работа MOVIES | backend
+# __Дипломная работа MOVIES | back-end__
 
-## Технологии:
+<br />
+
+## __Демо__
+__[https://datura-movies.nomoredomains.monster](https://datura-movies.nomoredomains.monster)__
+
+<br />
+
+## __Технологии:__
 1. JavaScript (ES6)
 2. Node.js
 3. Express
 4. MongoDB
 
-## Запуск проекта
+<br />
+
+## __Запуск проекта:__
 * `npm run start` — запускает сервер
 * `npm run dev` — запускает сервер с hot-reload
 
-### :link: backend - [https://api.datura-movies.nomoredomains.monster](https://api.datura-movies.nomoredomains.monster)
+### :link: back-end - [https://api.datura-movies.nomoredomains.monster](https://api.datura-movies.nomoredomains.monster)
 
-* публичный IP-адрес сервера:
